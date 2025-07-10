@@ -9,8 +9,6 @@
 
 **A modern, interactive web application featuring the unique Head & Tail game with dynamic column arrangement**
 
-[🚀 Live Demo](#)
-
 </div>
 
 ---
@@ -100,7 +98,7 @@ The Head & Tail game implements a unique column-based arrangement system:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/game-hub-head-tail.git
+   git clone https://github.com/Anshu331/Head-Tail-Game.git
    cd game-hub-head-tail
    ```
 
