@@ -240,8 +240,8 @@ The application is fully responsive and optimized for:
 
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Anshu](https://github.com/Anshu331/)**
 
-⭐ Star this repository if you found it helpful!
+
 
 </div>
